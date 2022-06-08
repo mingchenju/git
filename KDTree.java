@@ -2,7 +2,7 @@ package assignments2019.a3posted;
 import java.util.ArrayList;
 import java.util.Iterator;
 public class KDTree implements Iterable<Datum>{ 
-
+// I have to work harder
 	KDNode 		rootNode;
 	int    		k; 
 	int			numLeaves;
